@@ -1,5 +1,5 @@
-// î}Ä¿£ºhttp://oj.leetcode.com/problems/3sum/
-// ½âÎö£ºhttp://blog.csdn.net/lilong_dream/article/details/21645437
+// Problem:  http://oj.leetcode.com/problems/3sum/
+// Analysis: http://blog.csdn.net/lilong_dream/article/details/21645437
 // 1988lilong@163.com
 
 import java.util.ArrayList;
@@ -50,6 +50,7 @@ public class Sum3 {
 
 	public static void main(String[] args) {
 		int[] num = { -1, 0, 1, 2, -1, -4 };
+		
 		Sum3 slt = new Sum3();
 		ArrayList<ArrayList<Integer>> result = slt.threeSum(num);
 

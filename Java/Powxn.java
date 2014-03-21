@@ -1,5 +1,5 @@
-// ÌâÄ¿£ºhttp://oj.leetcode.com/problems/powx-n/
-// ½âÎö£ºhttp://blog.csdn.net/lilong_dream/article/details/21701775
+// Problem:  http://oj.leetcode.com/problems/powx-n/
+// Analysis: http://blog.csdn.net/lilong_dream/article/details/21701775
 // 1988lilong@163.com
 
 public class Powxn {

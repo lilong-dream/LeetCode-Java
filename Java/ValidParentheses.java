@@ -1,5 +1,5 @@
-// ÌâÄ¿£ºhttp://oj.leetcode.com/problems/valid-parentheses/
-// ½âÎö£ºhttp://blog.csdn.net/lilong_dream/article/details/21694751
+// Problem:  http://oj.leetcode.com/problems/valid-parentheses/
+// Analysis: http://blog.csdn.net/lilong_dream/article/details/21694751
 // 1988lilong@163.com
 
 import java.util.Stack;

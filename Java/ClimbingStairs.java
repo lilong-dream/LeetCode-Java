@@ -1,5 +1,5 @@
-// ÌâÄ¿£ºhttp://oj.leetcode.com/problems/climbing-stairs/
-// ½âÎö£ºhttp://blog.csdn.net/lilong_dream/article/details/21650907
+// Problem:  http://oj.leetcode.com/problems/climbing-stairs/
+// Analysis: http://blog.csdn.net/lilong_dream/article/details/21650907
 // 1988lilong@163.com
 
 public class ClimbingStairs {
@@ -22,7 +22,7 @@ public class ClimbingStairs {
 
 	public static void main(String[] args) {
 		ClimbingStairs slt = new ClimbingStairs();
-		int result = slt.climbStairs(0);
+		int result = slt.climbStairs(3);
 		System.out.println(result);
 	}
 }
