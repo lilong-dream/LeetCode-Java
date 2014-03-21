@@ -1,0 +1,33 @@
+// ÌâÄ¿£ºhttp://oj.leetcode.com/problems/powx-n/
+// ½âÎö£ºhttp://blog.csdn.net/lilong_dream/article/details/21701775
+// 1988lilong@163.com
+
+public class Powxn {
+	public double pow(double x, int n) {
+		if (n < 0) {
+			return 1.0 / power(x, -n);
+		} else {
+			return power(x, n);
+		}
+	}
+
+	public double power(double x, long n) {
+		if (n == 0) {
+			return 1;
+		}
+
+		double tmp = power(x, n / 2);
+
+		if ((n & 0x01) == 1) {
+			return tmp * tmp * x;
+		} else {
+			return tmp * tmp;
+		}
+	}
+
+	public static void main(String[] args) {
+		Powxn slt = new Powxn();
+		
+		System.out.println(slt.pow(2, 4));
+	}
+}
