@@ -1,14 +1,13 @@
 // Author:   Li Long, 1988lilong@163.com
-// Date:     Apr 17, 2014
+// Date:     Apr 18, 2014
 // Source:   http://oj.leetcode.com/problems/add-binary/
 // Analysis: http://blog.csdn.net/lilong_dream/article/details/19995465
 
-//Given two binary strings, return their sum (also a binary string).
-//
-//For example,
-//a = "11"
-//b = "1"
-//Return "100".
+// Given two binary strings, return their sum (also a binary string).
+// For example,
+// a = "11"
+// b = "1"
+// Return "100".
 
 public class AddBinary {
 	public String addBinary(String a, String b) {
