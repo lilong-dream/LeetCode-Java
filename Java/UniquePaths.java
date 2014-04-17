@@ -27,7 +27,7 @@ public class UniquePaths {
 
 		return A[m - 1][n - 1];
 	}
-	
+
 	public static void main(String[] args) {
 		UniquePaths slt = new UniquePaths();
 		int uPath = slt.uniquePaths(3, 7);
