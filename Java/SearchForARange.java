@@ -1,6 +1,14 @@
-// Problem:  http://oj.leetcode.com/problems/search-for-a-range/ 
+// Author:   Li Long, 1988lilong@163.com
+// Date:     Apr 17, 2014
+// Source:   http://oj.leetcode.com/problems/search-for-a-range/ 
 // Analysis: http://blog.csdn.net/lilong_dream/article/details/22893675
-// 1988lilong@163.com
+
+// Given a sorted array of integers, find the starting and ending position of a given target value.
+// Your algorithm's runtime complexity must be in the order of O(log n).
+// If the target is not found in the array, return [-1, -1].
+// For example,
+// Given [5, 7, 7, 8, 8, 10] and target value 8,
+// return [3, 4]. 
 
 public class SearchForARange {
 	public int[] searchRange(int[] A, int target) {
