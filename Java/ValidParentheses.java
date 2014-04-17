@@ -1,6 +1,12 @@
-// Problem:  http://oj.leetcode.com/problems/valid-parentheses/
+// Author:   Li Long, 1988lilong@163.com
+// Date:     Apr 17, 2014
+// Source:   http://oj.leetcode.com/problems/valid-parentheses/
 // Analysis: http://blog.csdn.net/lilong_dream/article/details/21694751
-// 1988lilong@163.com
+
+// Given a string containing just the characters '(', ')', '{', '}', '[' and ']', 
+// determine if the input string is valid.
+// The brackets must close in the correct order, 
+// "()" and "()[]{}" are all valid but "(]" and "([)]" are not.
 
 import java.util.Stack;
 
