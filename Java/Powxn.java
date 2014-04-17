@@ -1,6 +1,9 @@
-// Problem:  http://oj.leetcode.com/problems/powx-n/
+// Author:   Li Long, 1988lilong@163.com
+// Date:     Apr 17, 2014
+// Source:   http://oj.leetcode.com/problems/powx-n/ 
 // Analysis: http://blog.csdn.net/lilong_dream/article/details/21701775
-// 1988lilong@163.com
+
+// Implement pow(x, n). 
 
 public class Powxn {
 	public double pow(double x, int n) {
