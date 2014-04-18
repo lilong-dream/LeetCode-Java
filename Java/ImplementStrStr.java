@@ -1,6 +1,11 @@
-// Problem:  http://oj.leetcode.com/problems/implement-strstr/
+// Author:   Li Long, 1988lilong@163.com
+// Date:     Apr 18, 2014
+// Source:   http://oj.leetcode.com/problems/implement-strstr/
 // Analysis: http://blog.csdn.net/lilong_dream/article/details/23655843
-// 1988lilong@163.com
+
+// Implement strStr().
+// Returns a pointer to the first occurrence of needle in haystack, 
+// or null if needle is not part of haystack.
 
 public class ImplementStrStr {
 	public String strStr(String haystack, String needle) {
