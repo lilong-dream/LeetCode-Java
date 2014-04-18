@@ -1,6 +1,12 @@
-// Problem:  http://oj.leetcode.com/problems/generate-parentheses/
+// Author:   Li Long, 1988lilong@163.com
+// Date:     Apr 18, 2014
+// Source:   http://oj.leetcode.com/problems/generate-parentheses/
 // Analysis: http://blog.csdn.net/lilong_dream/article/details/23917967
-// 1988lilong@163.com
+
+// Given n pairs of parentheses, 
+// write a function to generate all combinations of well-formed parentheses.
+// For example, given n = 3, a solution set is:
+// "((()))", "(()())", "(())()", "()(())", "()()()"
 
 import java.util.ArrayList;
 
