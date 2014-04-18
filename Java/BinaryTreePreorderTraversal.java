@@ -1,20 +1,20 @@
 // Author:   Li Long, 1988lilong@163.com
-// Date:     Apr 17, 2014
+// Date:     Apr 18, 2014
 // Source:   http://oj.leetcode.com/problems/binary-tree-preorder-traversal/
 // Analysis: http://blog.csdn.net/lilong_dream/article/details/20306491
 
-//Given a binary tree, return the preorder traversal of its nodes' values.
+// Given a binary tree, return the preorder traversal of its nodes' values.
 //
-//For example:
-//Given binary tree {1,#,2,3},
+// For example:
+// Given binary tree {1,#,2,3},
 //   1
 //    \
 //     2
 //    /
 //   3
-//return [1,2,3].
+// return [1,2,3].
 //
-//Note: Recursive solution is trivial, could you do it iteratively?
+// Note: Recursive solution is trivial, could you do it iteratively?
 
 import java.util.ArrayList;
 import java.util.Stack;
