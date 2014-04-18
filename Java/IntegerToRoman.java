@@ -1,6 +1,10 @@
-// Problem:  http://oj.leetcode.com/problems/integer-to-roman/
+// Author:   Li Long, 1988lilong@163.com
+// Date:     Apr 18, 2014
+// Source:   http://oj.leetcode.com/problems/integer-to-roman/
 // Analysis: http://blog.csdn.net/lilong_dream/article/details/22869803
-// 1988lilong@163.com
+
+// Given an integer, convert it to a roman numeral.
+// Input is guaranteed to be within the range from 1 to 3999.
 
 public class IntegerToRoman {
 	public String intToRoman(int num) {
