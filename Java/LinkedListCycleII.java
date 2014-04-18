@@ -1,12 +1,12 @@
 // Author:   Li Long, 1988lilong@163.com
-// Date:     Apr 17, 2014
+// Date:     Apr 18, 2014
 // Source:   http://oj.leetcode.com/problems/linked-list-cycle-ii/
 // Analysis: http://blog.csdn.net/lilong_dream/article/details/20074373
 
-//Given a linked list, return the node where the cycle begins. If there is no cycle, return null.
+// Given a linked list, return the node where the cycle begins. If there is no cycle, return null.
 //
-//Follow up:
-//Can you solve it without using extra space?
+// Follow up:
+// Can you solve it without using extra space?
 
 public class LinkedListCycleII {
 	public ListNode detectCycle(ListNode head) {
