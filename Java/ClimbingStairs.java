@@ -1,7 +1,12 @@
-// Problem:  http://oj.leetcode.com/problems/climbing-stairs/
+// Author:   Li Long, 1988lilong@163.com
+// Date:     Apr 18, 2014
+// Source:   http://oj.leetcode.com/problems/climbing-stairs/
 // Analysis: http://blog.csdn.net/lilong_dream/article/details/21650907
-// 1988lilong@163.com
 
+// You are climbing a stair case. It takes n steps to reach to the top.
+// Each time you can either climb 1 or 2 steps. 
+// In how many distinct ways can you climb to the top?
+		
 public class ClimbingStairs {
     public int climbStairs(int n) {
 		if (n == 0) {
