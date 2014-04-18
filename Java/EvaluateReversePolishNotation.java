@@ -1,15 +1,13 @@
 // Author:   Li Long, 1988lilong@163.com
-// Date:     Apr 17, 2014
+// Date:     Apr 18, 2014
 // Source:   http://oj.leetcode.com/problems/evaluate-reverse-polish-notation/
 // Analysis: http://blog.csdn.net/lilong_dream/article/details/20204273
 
-//Evaluate the value of an arithmetic expression in Reverse Polish Notation.
-//
-//Valid operators are +, -, *, /. Each operand may be an integer or another expression.
-//
-//Some examples:
-//  ["2", "1", "+", "3", "*"] -> ((2 + 1) * 3) -> 9
-//  ["4", "13", "5", "/", "+"] -> (4 + (13 / 5)) -> 6
+// Evaluate the value of an arithmetic expression in Reverse Polish Notation.
+// Valid operators are +, -, *, /. Each operand may be an integer or another expression.
+// Some examples:
+// ["2", "1", "+", "3", "*"] -> ((2 + 1) * 3) -> 9
+// ["4", "13", "5", "/", "+"] -> (4 + (13 / 5)) -> 6
 
 import java.util.Stack;
 
