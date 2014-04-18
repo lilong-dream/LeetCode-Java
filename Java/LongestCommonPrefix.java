@@ -1,6 +1,9 @@
-// Problem:  http://oj.leetcode.com/problems/longest-common-prefix/
+// Author:   Li Long, 1988lilong@163.com
+// Date:     Apr 18, 2014
+// Source:   http://oj.leetcode.com/problems/longest-common-prefix/
 // Analysis: http://blog.csdn.net/lilong_dream/article/details/22886331
-// 1988lilong@163.com
+
+// Write a function to find the longest common prefix string amongst an array of strings.
 
 public class LongestCommonPrefix {
 	public String longestCommonPrefix(String[] strs) {
